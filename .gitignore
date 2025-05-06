@@ -1,0 +1,6 @@
+venv
+__pycache__
+.chat-with-db
+.streamlit/secrets.toml
+chatwithdata.db
+sqlite.db
